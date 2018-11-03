@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "881765593012",
+    "firebase_url": "https://cse-list.firebaseio.com",
+    "project_id": "cse-list",
+    "storage_bucket": "cse-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881765593012:android:adeed409ab92588d",
+        "android_client_info": {
+          "package_name": "com.foufou.ar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881765593012-70k0q4ano8ivdmnr57laedo30dg0mikk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOO8K6-xYXijgPt1DuJG47-y2yeqUp3wQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
